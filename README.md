@@ -1,2 +1,2 @@
 # Learn-HTML-CSS
-## This repo is for practicing html css.
+- This repo is for practicing html and css.
